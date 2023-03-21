@@ -1,4 +1,4 @@
-countDownDate = new Date("Aug 5, 2022 15:37:25").getTime();
+countDownDate = new Date("Aug 5, 2024 15:37:25").getTime();
 
 
 // Update the count down every 1 second
